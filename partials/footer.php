@@ -1,9 +1,9 @@
 
 <footer>
     <div class="footer__socials">
-        <a href="https://www.youtube.com/channel/UCvtrqmex9f7J9hxZfmhoHRw" target="_blank"><i class="uil uil-youtube"></i></a>
-        <a href="https://www.instagram.com/_underemployed_/" target="_blank"><i class="uil uil-instagram-alt"></i></a>
-        <a href="https://www.linkedin.com/in/nithin-a-06b946256/" target="_blank"><i class="uil uil-linkedin"></i></a> 
+        <a href="https://www.youtube.com/channel/pratik.coder" target="_blank"><i class="uil uil-youtube"></i></a>
+        <a href="https://www.instagram.com/pratik.coder" target="_blank"><i class="uil uil-instagram-alt"></i></a>
+        <a href="https://www.linkedin.com/in/pratik.coder/" target="_blank"><i class="uil uil-linkedin"></i></a> 
         <a href="" target="_blank"><i class="uil uil-facebook-f"></i></a> 
     </div>
     <div class="container footer__container">
@@ -56,7 +56,7 @@
     </div>
 
     <div class="footer__copyright">
-        <small>Copyright &copy; UnderEmployed</small>
+        <small>Copyright &copy; Blog Website</small>
     </div>
   </footer>
 
